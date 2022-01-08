@@ -1,0 +1,18 @@
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\bin\Release\exe spoofer.exe
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\bin\Release\exe spoofer.pdb
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\bin\Release\exe spoofer.xml
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Release\RLO.vbproj.GenerateResource.Cache
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Release\exe spoofer.exe
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Release\exe spoofer.xml
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Release\exe spoofer.pdb
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\obj\x86\Release\exe spoofer.exe
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\obj\x86\Release\exe spoofer.xml
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\obj\x86\Release\exe spoofer.pdb
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\bin\Release\exe spoofer.exe
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\bin\Release\exe spoofer.pdb
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\bin\Release\exe spoofer.xml
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\EGY\Desktop\Extension Spoofer\RLO\obj\x86\Release\RLO.vbproj.GenerateResource.Cache

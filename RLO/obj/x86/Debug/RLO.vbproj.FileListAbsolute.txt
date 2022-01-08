@@ -1,0 +1,18 @@
+C:\Users\jj89XD\Desktop\RLO\RLO\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\jj89XD\Desktop\RLO\RLO\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\jj89XD\Desktop\RLO\RLO\obj\x86\Debug\RLO.vbproj.GenerateResource.Cache
+C:\Users\jj89XD\Desktop\RLO\RLO\bin\Debug\Extension Spoofer.exe
+C:\Users\jj89XD\Desktop\RLO\RLO\bin\Debug\Extension Spoofer.pdb
+C:\Users\jj89XD\Desktop\RLO\RLO\bin\Debug\Extension Spoofer.xml
+C:\Users\jj89XD\Desktop\RLO\RLO\obj\x86\Debug\Extension Spoofer.exe
+C:\Users\jj89XD\Desktop\RLO\RLO\obj\x86\Debug\Extension Spoofer.xml
+C:\Users\jj89XD\Desktop\RLO\RLO\obj\x86\Debug\Extension Spoofer.pdb
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\bin\Debug\exe spoofer.exe
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\bin\Debug\exe spoofer.pdb
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\bin\Debug\exe spoofer.xml
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Debug\RLO.vbproj.GenerateResource.Cache
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Debug\exe spoofer.exe
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Debug\exe spoofer.xml
+C:\Users\jj89XD\Desktop\Extension Spoofer\RLO\obj\x86\Debug\exe spoofer.pdb
